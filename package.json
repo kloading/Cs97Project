@@ -1,0 +1,30 @@
+{
+  "description": "Demonstrates how to use 🏁  React Final Form to create a multi-page \"wizard\" form.",
+  "keywords": [
+    "form",
+    "wizard",
+    "react",
+    "final-form",
+    "react-final-form"
+  ],
+  "main": "index.js",
+  "name": "react-final-form-wizard-example-forked",
+  "version": "0.0.0",
+  "dependencies": {
+    "final-form": "1.3.5",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-final-form": "1.2.1",
+    "reactstrap": "6.5.0",
+    "styled-components": "2.2.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
